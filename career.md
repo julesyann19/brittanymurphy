@@ -25,7 +25,7 @@
 
 <p>She dabbled in music again with the release of the film Happy Feet, in which she covered Queen's "Somebody to Love" and Earth, Wind & Fire's "Boogie Wonderland". Murphy said about her character, Gloria, "Oddly enough, of all the characters I've played, Gloria is the most like me. And she's a penguin! George Miller always wanted one person to do both [the speaking and the singing]. I said, 'I can sing,' and I asked him to give me a shot. I don't think he took me very seriously, because most actors say they can do most things."</p>
 </main>
-
+<h2>Menu</h2>
 <nav>
 <ul>
        <li><a href="https://julesyann19.github.io/brittanymurphy.html">Home</a></li>
