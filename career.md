@@ -10,7 +10,7 @@
 
 <p>Murphy's breakthrough role was in her second feature film, the teen comedy <i>Clueless</i> (1995), directed by Amy Heckerling, which developed a cult following. She followed this with roles in <i>Freeway</i> (1996), with Reese Witherspoon and Kiefer Sutherland, and the independent comedy <i>Bongwater</i> (1998). In 1999, she had a supporting role in James Mangold's <i>Girl, Interrupted</i> as a troubled psychiatric patient alongside Winona Ryder and Angelina Jolie; and as an aspiring beauty queen in <i>Drop Dead Gorgeous.</i> She also voiced the character Luanne Platter on Fox's animated sitcom <i>King of the Hill</i> for the entirety of the show's run from 1997 to 2009, and Joseph Gribble until the fifth season. She was nominated for an Annie Award for voice acting in the <i>King of the Hill</i> episode "Movin' On Up".</p>
 
-<img src="http://cache.boston.com/resize/bonzai-fba/Globe_Photo/2009/12/20/1261362071_4162/539w.jpg" alt="Brittany Murphy in 8 Mile" width="599" height="393">
+<img src="http://cache.boston.com/resize/bonzai-fba/Globe_Photo/2009/12/20/1261362071_4162/539w.jpg" alt="Brittany Murphy in 8 Mile" width="539" height="388">
 
 <p>She began the 2000s with a leading role in <i>Don't Say a Word</i> (2001) alongside Michael Douglas; the TV adaptation of the novel <i>The Devil's Arithmetic</i> (2001); <i>8 Mile</i> (2002), for which she received critical acclaim; and <i>Uptown Girls</i> (2003). In 2003, she starred in the romantic comedies <i>Just Married</i> and <i>Little Black Book</i> (2004) and the critically acclaimed <i>Sin City</i> (2005). Film critic Roger Ebert frequently acclaimed Murphy's acting talent and comedic timing, giving good reviews to several of her films and comparing her to Lucille Ball:</p>
 
