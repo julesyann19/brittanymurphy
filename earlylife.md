@@ -16,7 +16,7 @@
        <li><a href="https://julesyann19.github.io/brittanymurphy/personallife.html">Personal Life</a></li>
        <li><a href="https://julesyann19.github.io/brittanymurphy/death.html">Death</a></li>
         
-    </ul>
-    </nav>
+</ul>
+</nav>
 </body>
 </html>
