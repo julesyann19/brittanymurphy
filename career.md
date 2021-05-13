@@ -23,7 +23,7 @@
   <h2>Music</h2>
  <p>Murphy's career also included work as a singer. She commented, "My singing voice isn't like my speaking voice...I've just always kept it a secret and never taken credit because I wanted to learn how to work behind the microphone in a recording studio, and some of the singers don't even know it was me recording on their albums."</p>
 
-<img src="https://i.pinimg.com/originals/91/d8/0a/91d80a706532c54a68c56222b867af8f.jpg" alt="Brittany Murphy in 8 Mile" width="300" height="500">
+<img src="https://i.pinimg.com/originals/91/d8/0a/91d80a706532c54a68c56222b867af8f.jpg" alt="Brittany Murphy in 8 Mile" width="350" height="500">
 
 <p>She was in a band called Blessed Soul with fellow actor Eric Balfour in the early 1990s. On June 6, 2006, Murphy and Paul Oakenfold released the single "Faster Kill Pussycat", from the album A Lively Mind. The song became a club hit and hit number one on Billboard's Hot Dance Club Play chart. It also hit number seven in Oakenfold's native United Kingdom in June 2006.</p>
 
