@@ -7,6 +7,7 @@
 
 <p> Murphy said her mother never tried to stifle her creativity, and she considered her mother a crucial factor in her later success: "When I asked my mom to move to California, she sold everything and moved out here for me.<i> She always believed in me." </i> Murphy's mother is of Irish and Slovakian descent and her father is of Italian ancestry. She was raised a Baptist and later became a non-denominational Christian. She had two older half-brothers and a younger half-sister. </p>
 </main>
+<h2>Menu</h2>
 <nav>
      <ul>
        <li><a href="https://julesyann19.github.io/brittanymurphy.html">Home</a></li>
