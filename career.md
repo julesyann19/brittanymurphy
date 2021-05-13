@@ -2,7 +2,7 @@
 <body>
   <h1> Career </h1>
 <main>
-<h4>Acting</h4>
+<h2>Acting</h2>
  
 <p>Murphy attended Verne Fowler School of Dance and Theatre Arts in Colonia, New Jersey, in 1982. From the age of four, she trained in singing, dancing, and acting until her move to California at thirteen. Murphy made her Broadway debut in 1997, as Catherine, in a revival of Arthur Miller's A View from the Bridge opposite veteran actors Anthony LaPaglia and Allison Janney.</p>
 
