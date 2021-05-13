@@ -34,7 +34,7 @@
 <h2>Menu</h2>
 <nav>
 <ul>
-       <li><a href="https://julesyann19.github.io/brittanymurphy.html">Home</a></li>
+       <li><a href="https://julesyann19.github.io/brittanymurphy/.html">Home</a></li>
        <li><a href="https://julesyann19.github.io/brittanymurphy/earlylife.html">Early Life</a></li>
        <li><a href="https://julesyann19.github.io/brittanymurphy/career.html">Career</a></li>
        <li><a href="https://julesyann19.github.io/brittanymurphy/personallife.html">Personal Life</a></li>
