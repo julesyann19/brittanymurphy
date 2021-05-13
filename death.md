@@ -1,5 +1,6 @@
 <html>
 <body>
+  <main>
   <h1> Death </h1>
 
 <p>At 8:00 am on December 20, 2009, the Los Angeles Fire Department responded to "a medical request" at the Los Angeles home Murphy and Monjack shared. She had apparently collapsed in a bathroom. Firefighters attempted to resuscitate Murphy on the scene. She was transported to Cedars-Sinai Medical Center, where she died at 10:04 after going into cardiac arrest.</p>
@@ -13,6 +14,21 @@
 <p>On January 11, 2012, her father Angelo Bertolotti applied to the Superior Court of California requesting that the Los Angeles County Coroner's Office be required to hand over samples of his daughter's hair for independent testing. The suit was dismissed on July 19, 2012, after Bertolotti failed to attend two separate hearings.</p>
 
 <p>In November 2013, Angelo Bertolotti claimed that a toxicology report showed that deliberate poisoning by heavy metals, including antimony and barium, was a possible cause of Brittany Murphy's death. Sharon Murphy described the claim as "a smear".</p> 
+</main>
+
+<h2>Menu</h2>
+<nav>
+     <ul>
+       <li><a href="https://julesyann19.github.io/brittanymurphy.html">Home</a></li>
+       <li><a href="https://julesyann19.github.io/brittanymurphy/earlylife.html">Early Life</a></li>
+       <li><a href="https://julesyann19.github.io/brittanymurphy/career.html">Career</a></li>
+       <li><a href="https://julesyann19.github.io/brittanymurphy/personallife.html">Personal Life</a></li>
+       <li><a href="https://julesyann19.github.io/brittanymurphy/death.html">Death</a></li>
+        
+</ul>
+</nav>
+</body>
+</html>
 
 </body>
 </html>
