@@ -3,7 +3,7 @@
   <h1> Career </h1>
 <main>
 <h2>Acting</h2>
-<img src="https://m.media-amazon.com/images/M/MV5BOGQ1YWY3OTYtYTgzNi00MzgxLWJhNWMtZTZkYWIwMzFmMGRkXkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_.jpg" alt="Brittany Murphy in Girl, Interrupted" width="500" height="333">
+<img src="https://m.media-amazon.com/images/M/MV5BOGQ1YWY3OTYtYTgzNi00MzgxLWJhNWMtZTZkYWIwMzFmMGRkXkEyXkFqcGdeQXVyMjQ3NDc5MzY@._V1_.jpg" alt="Brittany Murphy in Girl, Interrupted" width="1128" height="690">
 <p>Murphy attended Verne Fowler School of Dance and Theatre Arts in Colonia, New Jersey, in 1982. From the age of four, she trained in singing, dancing, and acting until her move to California at thirteen. Murphy made her Broadway debut in 1997, as Catherine, in a revival of Arthur Miller's A View from the Bridge opposite veteran actors Anthony LaPaglia and Allison Janney.</p>
 
 <p>Murphy landed her first job in Hollywood when she was thirteen, starring as Brenda Drexell in the series <i>Drexell's Class.</i> She then went on to play Molly Morgan in the short-lived <i>The Torkelsons</i> spinoff <i>Almost Home.</i> Murphy also guest-starred on several television series, including <i>Parker Lewis Can't Lose, Blossom, Quest 2032, Murder One</i> and <i>Frasier.</i> She also had recurring roles on <i>Party of Five, Boy Meets World,</i> and <i>Sister, Sister.</i></p>
