@@ -18,7 +18,7 @@
 
 <p>Murphy followed with several independent films, including as <i>Spun</i> (2002), <i>Neverwas</i> (2005), and Karen Moncrieff's <i>The Dead Girl</i> (2006), as well as two Edward Burns films: <i>Sidewalks of New York</i> (2001) and <i>The Groomsmen</i> (2006). She returned to voice acting with the critically acclaimed 2006 animated feature <i>Happy Feet,</i> as Gloria Penguin. In 2009, she was cast in the Lifetime TV movie <i>Tribute,</i> as the main character, Cilla. Murphy completed the thriller/drama <i>Abandoned</i> in June 2009 and it was released in 2010, after her death. In November 2009, Murphy left the production of <i>The Caller,</i> which was being filmed in Puerto Rico, and was replaced by Rachelle Lefevre. Murphy denied media reports that she had been fired from the project after being difficult on set, and cited "creative differences". <i>Something Wicked,</i> her final film, was released in 2014.</p>
   
-  <h4>Music</h4>
+  <h2>Music</h2>
  <p>Murphy's career also included work as a singer. She commented, "My singing voice isn't like my speaking voice...I've just always kept it a secret and never taken credit because I wanted to learn how to work behind the microphone in a recording studio, and some of the singers don't even know it was me recording on their albums."</p>
 
 <p>She was in a band called Blessed Soul with fellow actor Eric Balfour in the early 1990s. On June 6, 2006, Murphy and Paul Oakenfold released the single "Faster Kill Pussycat", from the album A Lively Mind. The song became a club hit and hit number one on Billboard's Hot Dance Club Play chart. It also hit number seven in Oakenfold's native United Kingdom in June 2006.</p>
