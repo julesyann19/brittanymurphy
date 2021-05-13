@@ -1,7 +1,7 @@
 <html>
 <body>
   <h1> Career </h1>
-
+<main>
 <h4>Acting</h4>
  
 <p>Murphy attended Verne Fowler School of Dance and Theatre Arts in Colonia, New Jersey, in 1982. From the age of four, she trained in singing, dancing, and acting until her move to California at thirteen. Murphy made her Broadway debut in 1997, as Catherine, in a revival of Arthur Miller's A View from the Bridge opposite veteran actors Anthony LaPaglia and Allison Janney.</p>
@@ -24,7 +24,17 @@
 <p>She was in a band called Blessed Soul with fellow actor Eric Balfour in the early 1990s. On June 6, 2006, Murphy and Paul Oakenfold released the single "Faster Kill Pussycat", from the album A Lively Mind. The song became a club hit and hit number one on Billboard's Hot Dance Club Play chart. It also hit number seven in Oakenfold's native United Kingdom in June 2006.</p>
 
 <p>She dabbled in music again with the release of the film Happy Feet, in which she covered Queen's "Somebody to Love" and Earth, Wind & Fire's "Boogie Wonderland". Murphy said about her character, Gloria, "Oddly enough, of all the characters I've played, Gloria is the most like me. And she's a penguin! George Miller always wanted one person to do both [the speaking and the singing]. I said, 'I can sing,' and I asked him to give me a shot. I don't think he took me very seriously, because most actors say they can do most things."</p>
+</main>
 
-
+<nav>
+<ul>
+       <li><a href="https://julesyann19.github.io/brittanymurphy.html">Home</a></li>
+       <li><a href="https://julesyann19.github.io/brittanymurphy/earlylife.html">Early Life</a></li>
+       <li><a href="https://julesyann19.github.io/brittanymurphy/career.html">Career</a></li>
+       <li><a href="https://julesyann19.github.io/brittanymurphy/personallife.html">Personal Life</a></li>
+       <li><a href="https://julesyann19.github.io/brittanymurphy/death.html">Death</a></li>
+        
+    </ul>
+    </nav>
 </body>
 </html>
