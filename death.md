@@ -2,7 +2,7 @@
 <body>
   <main>
   <h1> Death </h1>
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Brittany_Murphy_grave.jpg" alt="Brittany Murphy gravestone">
+  <img src="/Brittany.jpg" alt="Brittany Murphy gravestone">
 <p>At 8:00 am on December 20, 2009, the Los Angeles Fire Department responded to "a medical request" at the Los Angeles home Murphy and Monjack shared. She had apparently collapsed in a bathroom. Firefighters attempted to resuscitate Murphy on the scene. She was transported to Cedars-Sinai Medical Center, where she died at 10:04 after going into cardiac arrest.</p>
 
 <p>Shortly after her death, Assistant Chief Coroner Ed Winter told the Associated Press: "It appears to be natural."An autopsy was performed the day after she died. Her death certificate listed the cause of death as "deferred". On February 4, 2010, the Los Angeles County coroner stated that the primary cause of Murphy's death was pneumonia, with secondary factors of iron-deficiency anemia and multiple drug intoxication. On February 25, 2010, the coroner released a report stating that Murphy had been taking a range of over-the-counter and prescription medications, with the most likely reason being to treat a cold or respiratory infection. These included "elevated levels" of hydrocodone, acetaminophen, L-methamphetamine, and chlorpheniramine. All of the drugs were legal and the death was ruled to be an accident, but the report observed: "the possible adverse physiological effects of elevated levels of these medications cannot be discounted, especially in her weakened state."</p>
