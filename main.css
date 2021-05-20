@@ -44,3 +44,7 @@ color: lightpink;
 a:hover {
 color: MediumVioletRed;
 }
+
+a {
+text-decoration: none;
+}
