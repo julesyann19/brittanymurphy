@@ -1,4 +1,17 @@
-* {
-background:#e6f3ff;
-}
-
+<style>
+   body {
+      font-family: 'Condiment', cursive;
+      margin: 0;
+   }
+   .header {
+      padding: 30px;
+      text-align: center;
+      background: #f0f8ff;
+      color: white;
+      font-size: 30px;
+   }
+   main {
+      padding: 20px;
+      font-size: 18px;
+   }
+</style>
