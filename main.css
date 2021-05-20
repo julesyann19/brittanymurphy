@@ -3,9 +3,6 @@ background:#e6f3ff;
 }
 
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sarina&display=swap">
-<style>
-h1 {
-  font-family:'Sarina', cursive;
-}
-</style>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Sarina&display=swap" rel="stylesheet">
+
