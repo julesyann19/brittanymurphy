@@ -1,18 +1,19 @@
 * {
 background:#e6f3ff;
-margin-right: 50px;
-margin-left: 50px;
 }
 
 h1 {
-  color: MidnightBlue
+  color: MidnightBlue;
   font-family: 'Beth Ellen', cursive;
   font-size: 45px;
+  text-align: center;
 }
 
 p {
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 h4 {
