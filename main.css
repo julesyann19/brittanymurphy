@@ -41,9 +41,6 @@ a:link {
 color: MediumVioletRed;
 }
 
-a:hover {
-color: MidnightBlue;
-}
 
 a {
 text-decoration: none;
@@ -51,4 +48,5 @@ text-decoration: none;
 
 a:hover {
 text-decoration: underline;
+color: MidnightBlue;
 }
