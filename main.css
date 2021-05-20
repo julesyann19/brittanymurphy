@@ -2,8 +2,14 @@
 background:#e6f3ff;
 }
 
-h1 {;
-font-family: 'Pacifico', cursive;
-font-weight:normal;
-font-style:normal;
+  @font-face {
+       font-family: Gloss_And_Bloom, Arial, sans-serif; 
+src: ur(/c/f/Gloss_And_Bloom.ttf) format (“truetype”);
+font-weight: 400;
+font-style: normal;
+
+}
+
+ h1 {
+    font-family: Gloss_And_Bloom, Arial, sans-serif 
 }
