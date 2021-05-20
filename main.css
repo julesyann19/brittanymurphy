@@ -2,14 +2,10 @@
 background:#e6f3ff;
 }
 
-  @font-face {
-       font-family: Gloss_And_Bloom, Arial, sans-serif; 
-src: ur(/c/f/Gloss_And_Bloom.ttf) format (“truetype”);
-font-weight: 400;
-font-style: normal;
 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sarina&display=swap">
+<style>
+h1 {
+  font-family:'Sarina', cursive;
 }
-
- h1 {
-    font-family: Gloss_And_Bloom, Arial, sans-serif 
-}
+</style>
