@@ -23,9 +23,11 @@ p {
 h4 {
   font-family: 'Beth Ellen', cursive;
   font-size: 23px;
+  text-align: center;
 }
     
 ul {
   font-family: 'Open Sans', sans-serif;
-  font-size: 19px;    
+  font-size: 19px;
+  text-align: center;
 }
