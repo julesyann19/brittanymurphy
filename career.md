@@ -1,4 +1,9 @@
 <html>
+  
+  <head>
+  <link rel="stylesheet" href="main.css">
+</head>
+  
 <body>
   <h1> Career </h1>
 <main>
