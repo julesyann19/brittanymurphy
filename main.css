@@ -1,8 +1,19 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sarina&display=swap');
+</style>
+
 * {
 background:#e6f3ff;
 }
 
+body {
+  background-color: #e6f3ff;
+}
 
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Sarina&display=swap" rel="stylesheet">
+h1 {
+  color: navy;
+  font-family:'Sarina', cursive;
+  margin-center: 50px;
+}
+
 
