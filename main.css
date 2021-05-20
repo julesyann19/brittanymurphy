@@ -11,15 +11,19 @@ ul.ba {
 
 h1 {
   color: MidnightBlue
-  font-family:'Sarina', cursive;
+  font-family: 'Beth Ellen', cursive;
   font-size: 45px;
 }
 
 p {
-  font-family: 'Lobster', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 15px;
 }
 
 h4 {
-  font-family:'Lobster', sans-serif;
+  font-family: 'Beth Ellen', cursive;
   font-size: 23px;
+    
+ul {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 19px;    
