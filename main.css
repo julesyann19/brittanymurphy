@@ -9,7 +9,7 @@ h1 {
   text-align: center;
 }
 
-body {
+main {
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   background:#ffe4e1;
@@ -17,11 +17,6 @@ body {
   margin-left: 100px;
   margin-bottom: 100px;
   text-align: center;
-}
-
-p {
-    text-align: left;
-  background:#ffe4e1;
 }
 
 h4 {
@@ -39,7 +34,7 @@ ul {
 }
 
 a:link {
-color: lightpink;
+color: MidnightBlue;
 }
 
 a:hover {
