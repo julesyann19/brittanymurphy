@@ -5,6 +5,10 @@ margin-right: 150px;
 margin-left: 150px;
 }
 
+ul.ba {
+    list-style-type: none;
+}
+
 h1 {
   color: MidnightBlue
   font-family:'Sarina', cursive;
