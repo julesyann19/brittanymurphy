@@ -12,13 +12,13 @@ h1 {
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
+  background:#ffe4e1;
   margin-right: 100px;
   margin-left: 100px;
   text-align: center;
 }
 
 p {
-    background:#ffe4e1;
     text-align: left;
     margin-bottom: 100px;
 }
