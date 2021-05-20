@@ -1,4 +1,9 @@
 <html>
+  
+  <head>
+  <link rel="stylesheet" href="main.css">
+</head>
+  
 <body>
   <main>
   <h1> Early Life </h1>
