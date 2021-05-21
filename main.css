@@ -9,14 +9,13 @@ h1 {
   text-align: center;
 }
 
-p {
-    background:#ffe4e1;
+.boxed {
+  border: 1px solid green ;
 }
 
 main {
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
-  background:#ffe4e1;
   margin-right: 100px;
   margin-left: 100px;
   margin-bottom: 100px;
