@@ -12,6 +12,10 @@ h1 {
 .boxed {
   border: 2px solid MidnightBlue;
   background-color: #ffe9ec;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
 }
 
 main {
