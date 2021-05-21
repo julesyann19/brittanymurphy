@@ -43,7 +43,7 @@ h4 {
     
 ul {
   font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   text-align: center;
   padding: 0;
   list-style: none;
@@ -61,4 +61,5 @@ text-decoration: none;
 a:hover {
 text-decoration: underline;
 color: MediumVioletRed;
+background-color: #ffe9ec;
 }
