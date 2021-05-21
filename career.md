@@ -7,10 +7,10 @@
 </head>
   
 <body>
-  <h1> Career </h1>
 <main>
 <img src="https://metro.co.uk/wp-content/uploads/2019/03/SEI_58335270.jpg?quality=90&strip=all&w=1000&h=630&crop=1" alt="Brittany Murphy in Clueless" width="1000" height="630">
 
+<h1> Career </h1>
 <h2>Acting</h2>
 
 <p>Murphy attended Verne Fowler School of Dance and Theatre Arts in Colonia, New Jersey, in 1982. From the age of four, she trained in singing, dancing, and acting until her move to California at thirteen. Murphy made her Broadway debut in 1997, as Catherine, in a revival of Arthur Miller's A View from the Bridge opposite veteran actors Anthony LaPaglia and Allison Janney.</p>
