@@ -8,7 +8,7 @@
   
 <body>
 <main>
-<img src="https://metro.co.uk/wp-content/uploads/2019/03/SEI_58335270.jpg?quality=90&strip=all&w=1000&h=630&crop=1" alt="Brittany Murphy in Clueless" width="1000" height="630">
+<img src="https://metro.co.uk/wp-content/uploads/2019/03/SEI_58335270.jpg?quality=90&strip=all&w=1000&h=630&crop=1" alt="Brittany Murphy in Clueless">
 
 <h1> Career </h1>
 <h2>Acting</h2>
