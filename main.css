@@ -10,7 +10,8 @@ h1 {
 }
 
 .boxed {
-  border: 1px solid LightPink;
+  border: 2px solid MidnightBlue;
+  background-color: #ffe9ec;
 }
 
 main {
