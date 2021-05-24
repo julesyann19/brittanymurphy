@@ -1,46 +1,38 @@
-
-
-.header {
-  padding: 10px;
-  text-align: left;
-  background-color: #e6f3ff;
-  background-image: url("https://dazedimg-dazedgroup.netdna-ssl.com/900/azure/dazed-prod/1300/4/1304983.jpg");
-  background-size: cover;
-  backround-repeat: no-repeat;
-  color: MidnightBlue;
-  width: 100%;
-  position: fixed;
-  top: 0; 
-}
-
-.boxed {
-  padding-top: 400px;
+* {
+background:#e6f3ff;
 }
 
 h1 {
   color: MidnightBlue;
   font-family: 'Beth Ellen', cursive;
   font-size: 45px;
-  text-align: left;
+  text-align: center;
+}
+
+.boxed {
+  border: 2px solid MidnightBlue;
+  background-color: #ffe9ec;
+  box-shadow: 10px 10px 8px #888888;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
 }
 
 p { 
    color: MidnightBlue;
    background-color: #ffe9ec;
-   margin-right: 100px;
-   margin-left: 100px;
-   text-align: left;
 }
   
 main {
   font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
+  font-size: 15px;
   background-color: #ffe9ec;
   margin-right: 100px;
   margin-left: 100px;
   margin-bottom: 50px;
   margin-top: 50px;
-  text-align: left;
+  text-align: center;
 }
 
 h4 {
@@ -48,15 +40,11 @@ h4 {
   color: MidnightBlue;
   font-size: 23px;
   text-align: center;
-  
-.nav {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
-  }
+}
     
 ul {
   font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   text-align: center;
   padding: 0;
   list-style: none;
