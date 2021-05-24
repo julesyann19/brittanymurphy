@@ -49,7 +49,7 @@ ul {
 #mainMenu {
 	margin: 10px;
 	width: 900px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Beth Ellen', cursive;
 }
 
 #mainMenu li {
@@ -64,7 +64,7 @@ ul {
 	display:block;
 	padding:3px;
 	text-decoration:none;
-	background-color:MediumVioletRed;
+	background-color: #ffe9ec;
 	color:#MidnightBlue;
 
 a:hover {
