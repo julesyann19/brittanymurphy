@@ -2,11 +2,21 @@ body {
 background:#e6f3ff;
 }
 
+Header: 
+.header {
+  background-color: White;
+  background-image: url("https://officialpsds.com/imageview/7j/8k/7j8k0j_large.png?1521316582");
+  background-position: right;
+  background-repeat: no-repeat;
+  padding: 60;
+  position: sticky;
+}
+
 h1 {
-  color: MidnightBlue;
+  color: Black;
   font-family: 'Beth Ellen', cursive;
   font-size: 45px;
-  text-align: center;
+  text-align: left;
 }
 
 .boxed {
@@ -37,9 +47,9 @@ main {
 
 h4 {
   font-family: 'Beth Ellen', cursive;
-  color: MidnightBlue;
+  color: red;
   font-size: 23px;
-  text-align: center;
+  
 }
     
 ul {
