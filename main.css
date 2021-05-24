@@ -47,9 +47,12 @@ ul {
 }
 
 #mainMenu {
-	margin: 10px;
+	margin: 60px;
 	width: 900px;
 	font-family: 'Beth Ellen', cursive;
+	position: sticky;
+	
+	
 }
 
 #mainMenu li {
