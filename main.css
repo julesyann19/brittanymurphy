@@ -13,7 +13,7 @@ background:#FFFFFF;
 
 h1 {
   color: White;
-  font-family: 'Beth Ellen', cursive;
+  font-family: 'Oi', cursive;
   font-size: 45px;
   text-align: left;
 }
@@ -34,7 +34,7 @@ p {
 }
   
 main {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   background-color: #ffe9ec;
   margin-right: 100px;
@@ -45,7 +45,7 @@ main {
 }
 
 h4 {
-  font-family: 'Beth Ellen', cursive;
+  font-family: 'Montserrat', sans-serif;
   color: red;
   font-size: 23px;
   
@@ -58,7 +58,7 @@ ul {
 #mainMenu {
 	margin: 60px;
 	width: 900px;
-	font-family: 'Beth Ellen', cursive;
+	font-family: 'Oi', cursive;
 	position: sticky;
 	
 	
