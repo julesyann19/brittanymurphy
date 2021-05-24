@@ -10,7 +10,7 @@ h1 {
 }
 
 .boxed {
-  border: 2px solid MidnightBlue;
+  border: 10px solid MidnightBlue;
   background-color: #ffe9ec;
   box-shadow: 10px 10px 8px #888888;
   padding-top: 50px;
