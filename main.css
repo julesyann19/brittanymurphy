@@ -10,7 +10,7 @@ h1 {
 }
 
 .boxed {
-  border: 10px solid MidnightBlue;
+  border: 5px solid MidnightBlue;
   background-color: #ffe9ec;
   box-shadow: 10px 10px 8px #888888;
   padding-top: 50px;
@@ -40,6 +40,16 @@ h4 {
   color: MidnightBlue;
   font-size: 23px;
   text-align: center;
+}
+
+.nav {
+  border: 2px solid MediumVioletRed;
+  background-color: #ffe9ec;
+  box-shadow: 10px 10px 8px #888888;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
 }
     
 ul {
