@@ -43,21 +43,29 @@ h4 {
 }
     
 ul {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
-  text-align: center;
-  padding: 0;
   list-style: none;
 }
 
-a:link {
-color: MediumVioletRed;
+#mainMenu {
+	margin: 10px;
+	width: 900px;
+	font-family: 'Open Sans', sans-serif;
 }
 
-
-a {
-text-decoration: none;
+#mainMenu li {
+	display:block;
+	width:120px;
+	float:left;
+	margin-left:2px;
+	border:1px solid MidnightBlue;
 }
+
+#mainMenu a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:MediumVioletRed;
+	color:#MidnightBlue;
 
 a:hover {
 text-decoration: underline;
