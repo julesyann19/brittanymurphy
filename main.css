@@ -30,6 +30,9 @@ h1 {
 p { 
    color: MidnightBlue;
    background-color: #ffe9ec;
+   margin-right: 100px;
+   margin-left: 100px;
+   text-align: left;
 }
   
 main {
@@ -40,7 +43,7 @@ main {
   margin-left: 100px;
   margin-bottom: 50px;
   margin-top: 50px;
-  text-align: center;
+  text-align: left;
 }
 
 h4 {
