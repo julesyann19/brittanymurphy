@@ -17,6 +17,7 @@ h1 {
   color: White;
   font-family: 'Knewave', cursive;
   font-size: 75px;
+  text-align: center;
 }
 
 .boxed {
@@ -63,8 +64,7 @@ ul {
 	font-family: 'Knewave', cursive;
 	position: sticky;
 	text-align: center;
-	
-	
+	margin-left: 600;
 }
 
 #mainMenu li {
