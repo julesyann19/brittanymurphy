@@ -19,16 +19,6 @@ h1 {
   text-align: center;
 }
 
-.boxed {
-  border: 5px solid MidnightBlue;
-  background-color: #ffe9ec;
-  box-shadow: 10px 10px 8px #888888;
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 30px;
-}
-
 p { 
    color: MidnightBlue;
    background-color: #ffe9ec;
