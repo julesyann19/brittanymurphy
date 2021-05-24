@@ -9,6 +9,7 @@ background:#FFFFFF;
   background-repeat: no-repeat;
   padding-top: 100;
   padding-bottom: 60;
+  padding-left: 60;
   position: sticky;
   width: 100%
 }
@@ -17,7 +18,6 @@ h1 {
   color: White;
   font-family: 'Knewave', cursive;
   font-size: 75px;
-  text-align: center;
 }
 
 .boxed {
@@ -50,7 +50,7 @@ h4 {
   font-family: 'Montserrat', sans-serif;
   color: red;
   font-size: 23px;
-  text-align: center;
+  
   
 }
     
@@ -64,20 +64,20 @@ ul {
 	font-family: 'Knewave', cursive;
 	position: sticky;
 	text-align: center;
-	margin-left: 600;
+	
 }
 
 #mainMenu li {
 	display:block;
 	width:140px;
 	float:left;
-	margin-left:2px;
+	margin-left:20px;
 	border:3px solid Red;
 }
 
 #mainMenu a {
 	display:block;
-	padding:3px;
+	padding:6px;
 	text-decoration:none;
 	background-color: White;
 	color:#Black;
