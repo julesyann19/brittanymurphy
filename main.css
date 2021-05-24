@@ -8,8 +8,11 @@
   color: MidnightBlue;
   width: 100%;
   position: fixed;
-  top: 0;
-  
+  top: 0; 
+}
+
+.boxed {
+  padding-top: 60px;
 }
 
 h1 {
