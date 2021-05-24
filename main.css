@@ -2,6 +2,14 @@
 background:#e6f3ff;
 }
 
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #f69abf;
+  color: MidnightBlue;
+  
+}
+
 h1 {
   color: MidnightBlue;
   font-family: 'Beth Ellen', cursive;
