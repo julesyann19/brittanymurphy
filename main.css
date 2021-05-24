@@ -4,8 +4,8 @@ background:#FFFFFF;
  
 .header {
   background-color: #000000;
-  background-image: url("https://officialpsds.com/imageview/7j/8k/7j8k0j_large.png?1521316582");
-  background-position: right;
+  background-image: url("https://officialpsds.com/imageview/7j/8k/7j8k0j_large.png?1521316582"), url("http://officialpsds.com/imageview/rv/9y/rv9y82_small.png?1521316485");
+  background-position: right, right;
   background-repeat: no-repeat;
   padding-top: 100;
   padding-bottom: 60;
