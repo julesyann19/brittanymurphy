@@ -3,7 +3,7 @@
   <head>
   <link rel="stylesheet" href="main.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Beth+Ellen&family=Open+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Knewave&family=Montserrat:wght@600&display=swap" rel="stylesheet">
     
 </head>
   
