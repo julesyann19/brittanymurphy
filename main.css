@@ -86,8 +86,12 @@ ul {
         background-color: Red); 
     }
 
+	
 a:hover {
 text-decoration: underline;
 color: Red;
 background-color: Red;
 }
+	
+	
+#responsive-bm {  width: 100%;  height: auto; }
