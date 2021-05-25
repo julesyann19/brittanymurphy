@@ -84,8 +84,7 @@ ul {
 	
 #mainMenu li:hover {
         background-color: Red); 
-    }
-
+	
 	
 a:hover {
 text-decoration: underline;
@@ -95,3 +94,11 @@ background-color: Red;
 	
 	
 #responsive-bm {  width: 100%;  height: auto; }
+	
+	
+	
+@media screen and (max-width: 400px) {
+  h4 {
+    margin-right: 50%;
+  }
+}
