@@ -81,6 +81,10 @@ ul {
 	text-decoration:none;
 	background-color: White;
 	color:#Black;
+	
+#mainMenu li:hover {
+        background-color: Red); 
+    }
 
 a:hover {
 text-decoration: underline;
